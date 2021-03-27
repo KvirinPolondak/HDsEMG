@@ -1,0 +1,12 @@
+-koliko troše ADS1298?
+	Odgovoreno, oko 17mW jedan, dakle oko 34mW
+-koji ESP32 odabrati?
+	Odabran je ESP32s2 
+-odabrati regulatore napajanja prema tome
+
+-kako kaskadirati ADS1298?
+	Cascade Configuration - jednostavnija ali se mogu kaskadirati samo dva sklopa 
+	Daisy-Chain Configuration - značajno kompliciranija, ali se može kaskadirati više od 2 sklopa. 
+				    Puno potencijalnih problema i zahtjevniji softwer
+
+Odabrati internal i external reference voltage?
