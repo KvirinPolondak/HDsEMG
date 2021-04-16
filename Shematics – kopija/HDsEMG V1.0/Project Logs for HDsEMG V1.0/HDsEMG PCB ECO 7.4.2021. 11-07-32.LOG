@@ -1,0 +1,125 @@
+Added Component: Designator=D1(QFP50P1200X1200X120-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADS1298IPAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ads1298ipag/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/ads1298.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADS1298IPAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ADS1298IPAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1298IPAG?qs=Z6FgPJT5dDR3VNlC6H4EKg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(QFP50P1200X1200X120-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADS1298IPAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ads1298ipag/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/ads1298.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADS1298IPAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ADS1298IPAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS1298IPAG?qs=Z6FgPJT5dDR3VNlC6H4EKg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REF Pin=D1-1
+Added Pin To Net: NetName=IN8 Pin=D1-2
+Added Pin To Net: NetName=REF Pin=D1-3
+Added Pin To Net: NetName=IN7 Pin=D1-4
+Added Pin To Net: NetName=REF Pin=D1-5
+Added Pin To Net: NetName=IN6 Pin=D1-6
+Added Pin To Net: NetName=REF Pin=D1-7
+Added Pin To Net: NetName=IN5 Pin=D1-8
+Added Pin To Net: NetName=REF Pin=D1-9
+Added Pin To Net: NetName=IN4 Pin=D1-10
+Added Pin To Net: NetName=REF Pin=D1-11
+Added Pin To Net: NetName=IN3 Pin=D1-12
+Added Pin To Net: NetName=REF Pin=D1-13
+Added Pin To Net: NetName=IN2 Pin=D1-14
+Added Pin To Net: NetName=REF Pin=D1-15
+Added Pin To Net: NetName=IN1 Pin=D1-16
+Added Pin To Net: NetName=AVDD Pin=D1-19
+Added Pin To Net: NetName=GND Pin=D1-20
+Added Pin To Net: NetName=AVDD Pin=D1-21
+Added Pin To Net: NetName=AVDD Pin=D1-22
+Added Pin To Net: NetName=GND Pin=D1-23
+Added Pin To Net: NetName=NetC61_2 Pin=D1-24
+Added Pin To Net: NetName=GND Pin=D1-25
+Added Pin To Net: NetName=NetC35_1 Pin=D1-26
+Added Pin To Net: NetName=NetC36_1 Pin=D1-28
+Added Pin To Net: NetName=NetC37_1 Pin=D1-30
+Added Pin To Net: NetName=DGND Pin=D1-31
+Added Pin To Net: NetName=GND Pin=D1-32
+Added Pin To Net: NetName=GND Pin=D1-33
+Added Pin To Net: NetName=DIN Pin=D1-34
+Added Pin To Net: NetName=/PWDN1 Pin=D1-35
+Added Pin To Net: NetName=/RESET1 Pin=D1-36
+Added Pin To Net: NetName=START Pin=D1-38
+Added Pin To Net: NetName=/CS1 Pin=D1-39
+Added Pin To Net: NetName=SCLK Pin=D1-40
+Added Pin To Net: NetName=DGND Pin=D1-41
+Added Pin To Net: NetName=DOUT Pin=D1-43
+Added Pin To Net: NetName=DRDY Pin=D1-47
+Added Pin To Net: NetName=DVDD Pin=D1-48
+Added Pin To Net: NetName=DGND Pin=D1-49
+Added Pin To Net: NetName=DVDD Pin=D1-50
+Added Pin To Net: NetName=DGND Pin=D1-51
+Added Pin To Net: NetName=DGND Pin=D1-52
+Added Pin To Net: NetName=GND Pin=D1-53
+Added Pin To Net: NetName=AVDD Pin=D1-54
+Added Pin To Net: NetName=NetC34_1 Pin=D1-55
+Added Pin To Net: NetName=AVDD Pin=D1-56
+Added Pin To Net: NetName=GND Pin=D1-57
+Added Pin To Net: NetName=GND Pin=D1-58
+Added Pin To Net: NetName=AVDD Pin=D1-59
+Added Pin To Net: NetName=RLDOUT Pin=D1-62
+Added Pin To Net: NetName=RLDOUT Pin=D1-63
+Added Pin To Net: NetName=NetC33_1 Pin=D1-64
+Added Pin To Net: NetName=REF Pin=D2-1
+Added Pin To Net: NetName=IN16 Pin=D2-2
+Added Pin To Net: NetName=REF Pin=D2-3
+Added Pin To Net: NetName=IN15 Pin=D2-4
+Added Pin To Net: NetName=REF Pin=D2-5
+Added Pin To Net: NetName=IN14 Pin=D2-6
+Added Pin To Net: NetName=REF Pin=D2-7
+Added Pin To Net: NetName=IN13 Pin=D2-8
+Added Pin To Net: NetName=REF Pin=D2-9
+Added Pin To Net: NetName=IN12 Pin=D2-10
+Added Pin To Net: NetName=REF Pin=D2-11
+Added Pin To Net: NetName=IN11 Pin=D2-12
+Added Pin To Net: NetName=REF Pin=D2-13
+Added Pin To Net: NetName=IN10 Pin=D2-14
+Added Pin To Net: NetName=REF Pin=D2-15
+Added Pin To Net: NetName=IN9 Pin=D2-16
+Added Pin To Net: NetName=AVDD Pin=D2-19
+Added Pin To Net: NetName=GND Pin=D2-20
+Added Pin To Net: NetName=AVDD Pin=D2-21
+Added Pin To Net: NetName=AVDD Pin=D2-22
+Added Pin To Net: NetName=GND Pin=D2-23
+Added Pin To Net: NetName=NetC62_2 Pin=D2-24
+Added Pin To Net: NetName=GND Pin=D2-25
+Added Pin To Net: NetName=NetC40_1 Pin=D2-26
+Added Pin To Net: NetName=NetC41_1 Pin=D2-28
+Added Pin To Net: NetName=NetC42_1 Pin=D2-30
+Added Pin To Net: NetName=DGND Pin=D2-31
+Added Pin To Net: NetName=GND Pin=D2-32
+Added Pin To Net: NetName=GND Pin=D2-33
+Added Pin To Net: NetName=DIN Pin=D2-34
+Added Pin To Net: NetName=/PWDN2 Pin=D2-35
+Added Pin To Net: NetName=/RESET2 Pin=D2-36
+Added Pin To Net: NetName=START Pin=D2-38
+Added Pin To Net: NetName=/CS2 Pin=D2-39
+Added Pin To Net: NetName=SCLK Pin=D2-40
+Added Pin To Net: NetName=DGND Pin=D2-41
+Added Pin To Net: NetName=DOUT Pin=D2-43
+Added Pin To Net: NetName=DVDD Pin=D2-48
+Added Pin To Net: NetName=DGND Pin=D2-49
+Added Pin To Net: NetName=DVDD Pin=D2-50
+Added Pin To Net: NetName=DGND Pin=D2-51
+Added Pin To Net: NetName=DGND Pin=D2-52
+Added Pin To Net: NetName=GND Pin=D2-53
+Added Pin To Net: NetName=AVDD Pin=D2-54
+Added Pin To Net: NetName=NetC51_1 Pin=D2-55
+Added Pin To Net: NetName=AVDD Pin=D2-56
+Added Pin To Net: NetName=GND Pin=D2-57
+Added Pin To Net: NetName=GND Pin=D2-58
+Added Pin To Net: NetName=AVDD Pin=D2-59
+Added Pin To Net: NetName=RLDOUT2 Pin=D2-62
+Added Pin To Net: NetName=RLDOUT2 Pin=D2-63
+Added Pin To Net: NetName=NetC39_1 Pin=D2-64
+Added Member To Class: ClassName=ADS1298 Member=Component D1 ADS1298IPAG
+Added Member To Class: ClassName=ADS1298 Member=Component D2 ADS1298IPAG

@@ -1,0 +1,14 @@
+Added Component: Designator=T1(PCBComponent_1)
+Added Component: Designator=T2(PCBComponent_1)
+Added Component: Designator=T3(PCBComponent_1)
+Added Pin To Net: NetName=ESP32_5V_pin Pin=T1-1
+Added Pin To Net: NetName=AVDD Pin=T2-1
+Added Pin To Net: NetName=DVDD Pin=T3-1
+Added Member To Class: ClassName=Power supply Member=Component T1 TP1
+Added Member To Class: ClassName=Power supply Member=Component T2 TP2
+Added Member To Class: ClassName=Power supply Member=Component T3 TP3
+Added Room: Name=ADS1298
+Added Room: Name=ESP32
+Added Room: Name=Input1
+Added Room: Name=Input2
+Added Room: Name=Power supply
