@@ -1,7 +1,0 @@
-Change Component Footprint: Designator=R2 Old Footprint=6-0805_L New Footprint=RESC1608X50N
-Change Component Footprint: Designator=R8 Old Footprint=6-0805_L New Footprint=RESC1608X50N
-Added Room: Name=ADS1298
-Added Room: Name=ESP32
-Added Room: Name=Input1
-Added Room: Name=Input2
-Added Room: Name=Power supply
