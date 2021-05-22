@@ -348,11 +348,14 @@ UniqueID=A4ECC31D-1798-4044-9F71-855B2FD93DE2
 Description=Variant of HDsEMG V1.0
 AllowFabrication=1
 ParameterCount=1
-VariationCount=4
+VariationCount=7
 Variation1=Designator=R63|UniqueId=\VUFKJVKS|Kind=1|AlternatePart= 
 Variation2=Designator=R62|UniqueId=\GUZLUHRI|Kind=1|AlternatePart= 
 Variation3=Designator=R58|UniqueId=\ZPNCAWNW|Kind=1|AlternatePart= 
 Variation4=Designator=R59|UniqueId=\IMTLXXKW|Kind=1|AlternatePart= 
+Variation5=Designator=R64|UniqueId=\UCLPLJDL|Kind=1|AlternatePart= 
+Variation6=Designator=R65|UniqueId=\JOSURUYL|Kind=0|AlternatePart= 
+Variation7=Designator=R60|UniqueId=\WRCDVQLK|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
